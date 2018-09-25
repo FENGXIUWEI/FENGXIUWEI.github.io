@@ -4,6 +4,61 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/04/18/Hexo%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2018-09-25T09:13:59.614Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo的基本使用</title>
+        <pubTime>2018-04-18T09:09:08.000Z</pubTime>
+        
+        <tag>Hexo的基本使用</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/25/TortoiseGit%E5%AE%89%E8%A3%85%E3%80%81%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2018-09-25T09:11:04.384Z</lastmod>
+    <data>
+        <display>
+        <title>TortoiseGit安装、配置</title>
+        <pubTime>2018-09-25T07:48:07.000Z</pubTime>
+        
+        <tag>TortoiseGit,git</tag>
+         
+         
+           
+             
+              <breadCrumb title="TortoiseGit,git" url="http://yoursite.com/categories/TortoiseGit-git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/06/07/css3-0%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2018-06-22T08:42:03.874Z</lastmod>
+    <data>
+        <display>
+        <title>css3.0总结</title>
+        <pubTime>2018-06-07T06:11:53.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/05/03/ngrok%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2018-06-15T07:05:41.933Z</lastmod>
     <data>
@@ -44,36 +99,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/06/07/css3-0%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2018-06-15T07:01:00.000Z</lastmod>
-    <data>
-        <display>
-        <title>css3.0总结</title>
-        <pubTime>2018-06-07T06:11:53.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/06/04/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2018-06-15T07:00:13.284Z</lastmod>
-    <data>
-        <display>
-        <title>移动端学习</title>
-        <pubTime>2018-06-04T03:05:11.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/06/15/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2018-06-15T06:48:05.205Z</lastmod>
     <data>
@@ -87,26 +112,6 @@
            
              
               <breadCrumb title="百度地图API" url="http://yoursite.com/categories/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/04/20/less%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2018-06-07T05:45:22.130Z</lastmod>
-    <data>
-        <display>
-        <title>less项目实战</title>
-        <pubTime>2018-04-20T02:04:16.000Z</pubTime>
-        
-        <tag>less项目实战</tag>
-         
-         
-           
-             
-              <breadCrumb title="less" url="http://yoursite.com/categories/less/"/>
           
         </display>
     </data>
@@ -183,26 +188,6 @@
            
              
               <breadCrumb title="bootstrap" url="http://yoursite.com/categories/bootstrap/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/04/18/Hexo%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2018-05-08T02:54:06.697Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo的基本使用</title>
-        <pubTime>2018-04-18T09:09:08.000Z</pubTime>
-        
-        <tag>Hexo的基本使用</tag>
-         
-         
-           
-             
-              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
           
         </display>
     </data>
